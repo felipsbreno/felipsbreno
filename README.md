@@ -4,7 +4,7 @@
 # Breno Felipe de Bairros
 
 ## Olá pessoal 👋
-Sou apaixonado por programação, gosto de codar meus projetos pessoais, me preparando para ajudar a equipe da TI da minha a desenvolver um projeto com Nodejs.
+Sou apaixonado por programação, gosto de codar meus projetos pessoais, me preparando para ajudar a equipe da TI da minha empresa a desenvolver um projeto com Nodejs.
 Sou um FullStack Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Ahgora Sistemas**
