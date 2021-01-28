@@ -3,8 +3,8 @@
 # Breno Felipe de Bairros
 
 ## Olá pessoal 👋
- :rocket:  &nbsp; Atualmente trabalhando como estagiário Front-end na **Cognyte**
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Typescript & Me aventurando no Ruby
+ :rocket:  &nbsp; Atualmente trabalhando como estagiário fullstack na **Cognyte**
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js e Java (Devido o estágio)
  <br/> 💬  &nbsp; Sobre mim: Sou um simples cara que escreve uns códigos 🤣
  <br/> :email: &nbsp; Fique a vontade para entrar em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-BrenoFelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-felipe-de-bairros/)](https://www.linkedin.com/in/breno-felipe-de-bairros/) 
 | 
