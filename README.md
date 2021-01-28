@@ -3,9 +3,6 @@
 # Breno Felipe de Bairros
 
 ## Olá pessoal 👋
-Sou apaixonado por programação,atualmente sou estágiario em desenvolvimento frontend na Suntech
-Sou um FullStack Developer :computer:
-
  :rocket:  &nbsp; Atualmente trabalhando como estagiário Front-end na **Cognyte**
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Typescript & Me aventurando no Ruby
  <br/> 💬  &nbsp; Sobre mim: Sou um simples cara que escreve uns códigos 🤣
