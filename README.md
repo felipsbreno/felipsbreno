@@ -1,6 +1,6 @@
 ## Hey guys 👋
 I am passionate about solving problems using programming.
-I'm a FullStack Developer :computer:
+<br/> I'm a Frontend Developer, but I also manage the backend :computer:
 
  :rocket:  &nbsp; I am currently an intern at [Cognyte](https://www.cognyte.com/)
  <br/> :purple_heart: &nbsp; Looking to collaborate with front-end projects using React and Node.js
