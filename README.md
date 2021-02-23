@@ -2,7 +2,7 @@
 I am passionate about solving problems using programming.
 I'm a FullStack Developer :computer:
 
- :rocket:  &nbsp; I am currently an intern at (Cognyte)[https://www.cognyte.com/]
+ :rocket:  &nbsp; I am currently an intern at [Cognyte](https://www.cognyte.com/)
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; About me: I'm a simple guy who writes some codes and likes to have a good coffee.
