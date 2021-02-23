@@ -1,11 +1,10 @@
 
+# Breno Felipe from Neighborhoods
 
-# Breno Felipe de Bairros
-
-## Olá pessoal 👋
- :rocket:  &nbsp; Atualmente trabalhando como estagiário fullstack na **Cognyte**
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js e Java (Devido o estágio)
- <br/> 💬  &nbsp; Sobre mim: Sou um simples cara que escreve uns códigos 🤣
- <br/> :email: &nbsp; Fique a vontade para entrar em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-BrenoFelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-felipe-de-bairros/)](https://www.linkedin.com/in/breno-felipe-de-bairros/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-brendo.filipe2050@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brendo.filipe2050@gmail.com)](mailto:brendo.filipe2050@gmail.com)
+## Hello guys 👋
+ : rocket: & nbsp; Currently working as a fullstack intern at ** Cognyte **
+ <br/>: computer: & nbsp; My stack: ReactJS, Node.js and Java (due to the stage)
+ <br/> 💬 & nbsp; About me: I'm a simple guy who calls codes 🤣
+ <br/>: email: & nbsp; Feel free to contact me: [! [Linkedin Badge] (https://img.shields.io/badge/-BrenoFelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin .com / in / breno-felipe-de- neighborhoods /)] (https://www.linkedin.com/in/breno-felipe-de-bairros/)
+|
+[! [Gmail badge] (https://img.shields.io/badge/-brendo.filipe2050@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brendo.filipe2050@gmail.com)] (mailto: brendo.filipe2050@gmail.com)
