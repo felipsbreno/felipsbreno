@@ -1,15 +1,12 @@
-
-# Breno Felipe dos Bairros
-
 ## Olá pessoal 👋
- 
- :foguete: & nbsp; Atualmente trabalhando como estagiário fullstack na ** Cognyte 
- **<br/>
- :computador: & nbsp; Minha pilha: ReactJS, Node.js e Java (devido ao estágio)
- <br/> 
- 💬 & nbsp; Sobre mim: sou um cara simples que liga para códigos 🤣
- <br/>
- :email: & nbsp; Sinta-se livre para me contatar: 
+Sou apaixonado por resolver problemas utilizando a programação.
+Sou um FullStack Developer :computer:
 
-[! [Emblema do Linkedin] (https://img.shields.io/badge/-BrenoFelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin .com / in / breno-felipe-de- bairros /)] (https://www.linkedin.com/in/breno-felipe-de-bairros/)
-|[! [Selo do Gmail] (https://img.shields.io/badge/-brendo.filipe2050@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brendo.filipe2050@gmail.com)] ( mailto: brendo.filipe2050@gmail.com)
+ :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
