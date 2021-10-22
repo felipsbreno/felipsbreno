@@ -2,7 +2,7 @@
 I am passionate about solving problems using programming.
 <br/> I'm a Frontend Developer, but I also manage the backend :computer:
 
- :rocket:  &nbsp; I am currently an Software Developer at [Cognyte](https://www.cognyte.com/)
+ :rocket:  &nbsp; I am currently an Frontend Developer at [Cognyte](https://www.cognyte.com/)
  <br/> :purple_heart: &nbsp; Looking to collaborate with front-end projects using React and Node.js
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native, Typescript and Java due to the internship.
  <br/> 💬  &nbsp; About me: I'm a simple guy who writes some codes and likes to have a good coffee.
