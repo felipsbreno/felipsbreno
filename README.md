@@ -1,4 +1,4 @@
-## Hi everyone 👋 I'm Breno Felipe
+## Hi everyone I'm Breno Felipe 👋 
 
 - 🔭 I’m currently working with JavaScript, React, Java, Spring Boot
 - 🌱 I’m currently learning about Microservices
