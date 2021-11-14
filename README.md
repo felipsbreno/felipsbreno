@@ -2,20 +2,25 @@
 
 - 🔭 I’m currently working with JavaScript, React, Java, Spring Boot
 - 🌱 I’m currently learning Microservices, React Native and Golang
+- 🧑‍💻 I'm working as Software Developer at <a href="https://www.cognyte.com/">Cognyte</a>
 
- <div style="display: inline_block">
-  <a href="https://github.com/breno-felipe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breno-felipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-felipe&layout=compact&langs_count=4&theme=dracula"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Breno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Breno-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Breno-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="Breno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Breno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Breno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Breno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+<br />
+
+ <div style="display: inline_block">
+  <a href="https://github.com/breno-felipe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breno-felipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 
 ##
 
