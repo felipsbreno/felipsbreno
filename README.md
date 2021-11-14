@@ -1,7 +1,7 @@
 ## Hi everyone 👋 I'm Breno Felipe
 
 - 🔭 I’m currently working with JavaScript, React, Java, Spring Boot
-- 🌱 I’m currently learning Microservices, React Native and Golang
+- 🌱 I’m currently learning about Microservices
 - 🧑‍💻 I'm working as Software Developer at <a href="https://www.cognyte.com/">Cognyte</a>
 
 <div style="display: inline_block"><br>
