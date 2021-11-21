@@ -18,7 +18,7 @@
 
  <div style="display: inline_block">
   <a href="https://github.com/felipsbreno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breno-felipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipsbreno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
