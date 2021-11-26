@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with JavaScript, React, Java, Spring Boot
 - 🌱 I’m currently learning about Microservices
-- 🧑‍💻 I'm working as Software Developer at <a href="https://www.cognyte.com/">Cognyte</a>
+- 🧑‍💻 I'm working as Full Stack Developer at <a href="https://www.cognyte.com/">Cognyte</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
