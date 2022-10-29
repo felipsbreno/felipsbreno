@@ -1,8 +1,9 @@
 ## Hi everyone I'm Breno Felipe 👋 
 
-- 🔭 I’m currently working with JavaScript, React, Java, Spring Boot
-- 🌱 I’m currently learning about Microservices
-- 🧑‍💻 I'm working as Software Developer at <a href="https://www.cognyte.com/">Cognyte</a>
+🔭 I’m currently working with Apache Kafka · Docker · React.js · Spring Framework
+🌱 I’m currently learning about Microservices and Microfrontends
+💻Software Developer at <a href="https://www.cognyte.com/">Cognyte</a>
+🌎 A newest crypto, blockchain and web3 enthusiast!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
