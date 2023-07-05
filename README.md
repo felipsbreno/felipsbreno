@@ -1,6 +1,6 @@
 ## Hi everyone I'm Breno Felipe 👋 
 
-- 🔭 I’m currently working with Apache Kafka · Docker · React.js · Spring Framework
+- 🔭 I’m currently working with Apache Kafka · Docker · ReactJS · Spring Framework · Java
 - 🌱 I’m currently learning about Microservices and Microfrontends
 - 💻Software Developer at <a href="https://www.cognyte.com/">Cognyte</a>
 - 🌎 A newest crypto, blockchain and web3 enthusiast!
